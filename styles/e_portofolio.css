@@ -1,0 +1,12 @@
+.menus {
+    background-color: red;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.menus li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 10px;
+}
